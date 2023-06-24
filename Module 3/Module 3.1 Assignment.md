@@ -12,4 +12,16 @@ In this lesson, you learned how to create your own Classroom. For this assignmen
 ## Submission
 To submit this assignment, edit this file on the `edit-module-assignment` branch by clicking the pencil icon, then replace the answer below with your own. When you’re finished, open a Pull Request with the changes you’ve made titled `Module 3.1 Assignment` to submit, then proceed to the next section in this module.
 
-_Example Answer: 123456_
+_Example Answer: 
+
+1. Start at classroom.github.com and sign in with your GitHub account.
+
+2. Click the "Create your first classroom" button, then create and/or authorize an organization for your new classroom.
+
+3. Name your classroom (e.g., Fall 2020 CS101), then click continue.
+
+4. Authorize access to GitHub Classroom for your GitHub account.
+
+5. Add a student roster.
+
+6. Invite TAs and admins to your GitHub organization and send them your classroom invitation URL.
